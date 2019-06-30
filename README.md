@@ -30,5 +30,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Python modules __pandas, seaborn,matplotlib,mlxtend, sklearn__ etc have been used, and finally different machine learning models are build to help the prediction. 
 - Also, the best fit model for the given dataset is found based on the performance and accuracy of each models.
 
-<a id=section1></a>
+<a id=section2></a>
 # Home Loan Prediction
