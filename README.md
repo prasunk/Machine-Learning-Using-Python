@@ -31,7 +31,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Also, the best fit model for the given dataset is found based on the performance and accuracy of each models.
 
 
-[Direct Link to Jupyter Notebook](https://github.com/prasunk/Machine-Learning-Using-Python/blob/master/Candy%20Data%20Analysis/Candy_Data_Analysis.ipynb)
+- [Direct Link to Jupyter Notebook](https://github.com/prasunk/Machine-Learning-Using-Python/blob/master/Candy%20Data%20Analysis/Candy_Data_Analysis.ipynb)
 
 
 <a id=section2></a>
