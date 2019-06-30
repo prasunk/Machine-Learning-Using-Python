@@ -29,6 +29,8 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Purpose is to find which is the most important component for a chocolate to be most popular. Also, predict the win percentage of the chocolate. 
 - Python modules __pandas, seaborn,matplotlib,mlxtend, sklearn__ etc have been used, and finally different machine learning models are build to help the prediction. 
 - Also, the best fit model for the given dataset is found based on the performance and accuracy of each models.
+
+
 [Direct Link to Jupyter Notebook](https://github.com/prasunk/Machine-Learning-Using-Python/blob/master/Candy%20Data%20Analysis/Candy_Data_Analysis.ipynb)
 
 
