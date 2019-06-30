@@ -23,3 +23,12 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 <a id=section1></a>
 # Candy Data Analysis
+![image.png](https://www.nickspizzapub.com/wp-content/uploads/2017/10/nickshal.jpg)
+
+- What’s the best (or at least the most popular) Halloween candy? That was the question this dataset was collected to answer. 
+- Purpose is to find which is the most important component for a chocolate to be most popular. Also, predict the win percentage of the chocolate. 
+- Python modules __pandas, seaborn,matplotlib,mlxtend, sklearn__ etc have been used, and finally different machine learning models are build to help the prediction. 
+- Also, the best fit model for the given dataset is found based on the performance and accuracy of each models.
+
+<a id=section1></a>
+# Home Loan Prediction
