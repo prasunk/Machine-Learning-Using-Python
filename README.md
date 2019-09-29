@@ -18,7 +18,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 - [Candy Data Analysis](#section1)<br>
-- [Home Loan Prediction](#section2)<br>
+- [Iris Data Analysis](#section2)<br>
 
 
 <a id=section1></a>
@@ -35,4 +35,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 
 <a id=section2></a>
-# Home Loan Prediction
+# Iris Data Analysis
+![image.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fblog_assets%2FMachine%2BLearning%2BR%2Firis-machinelearning.png&imgrefurl=http%3A%2F%2Fwww.lac.inpe.br%2F~rafael.santos%2FDocs%2FCAP394%2FWholeStory-Iris.html&docid=DWcNzEt0Tz4F4M&tbnid=P-PGjABuYKeYpM%3A&vet=10ahUKEwijrInlyPbkAhVC7XMBHVgJCRUQMwhRKAMwAw..i&w=1275&h=477&bih=754&biw=1536&q=iris%20data%20photo&ved=0ahUKEwijrInlyPbkAhVC7XMBHVgJCRUQMwhRKAMwAw&iact=mrc&uact=8)
