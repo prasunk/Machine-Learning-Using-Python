@@ -37,3 +37,6 @@ This repository is about different Machine Learning algorithm approaches as per 
 <a id=section2></a>
 # Iris Data Analysis
 ![image.png](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png)
+
+
+- [Direct Link to Jupyter Notebook](https://github.com/prasunk/Machine-Learning-Using-Python/tree/master/Iris%20Data%20Analysis)
